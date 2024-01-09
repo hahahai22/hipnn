@@ -9,6 +9,14 @@ int add(int a, int b)
 {
   int c = a + b;
 }
+class Point
+{
+private:
+  int x, y;
+public:
+  int getX(){return x;}
+  int getY(){return y;}
+};
 int main()
 {
   test();
