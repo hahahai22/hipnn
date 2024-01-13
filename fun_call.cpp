@@ -9,6 +9,11 @@ int add(int a, int b)
 {
   int c = a + b;
 }
+int multi(int a, int b)
+{
+  int c = a * b;
+  return c;
+}
 class Point
 {
 private:
