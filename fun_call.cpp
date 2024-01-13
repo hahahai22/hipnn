@@ -30,6 +30,8 @@ int main()
   test();
 
 
+  kernelId = 887;
+
   int a = 12;
   int b = 15;
   max(a, b);
