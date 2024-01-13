@@ -24,6 +24,9 @@ public:
 };
 int main()
 {
+  int a = 10;
+  int b = 11;
+  add(a, b);
   test();
   return 0;
 }
