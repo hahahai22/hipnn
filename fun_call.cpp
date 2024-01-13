@@ -14,21 +14,13 @@ int multi(int a, int b)
   int c = a * b;
   return c;
 }
-class Point
-{
-private:
-  int x, y;
-public:
-  int getX(){return x;}
-  int getY(){return y;}
-};
+
 int main()
 {
   int a = 128;
   int b = 11;
   add(a, b);
   test();
-
 
   kernelId = 888;
 
