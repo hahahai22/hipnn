@@ -28,5 +28,10 @@ int main()
   int b = 11;
   add(a, b);
   test();
+
+
+  int a = 12;
+  int b = 15;
+  max(a, b);
   return 0;
 }
