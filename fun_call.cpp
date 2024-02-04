@@ -1,4 +1,6 @@
 #include <iostream>
+#include <string>
+using namespace std;
 void test()
 {
   int a = 10;
