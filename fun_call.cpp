@@ -22,8 +22,9 @@ int main()
   int b = 11;
   add(a, b);
   test();
-
+  
   kernelId = 888;
+  kernelId = 1234;
 
   int a = 12;
   int b = 15;
