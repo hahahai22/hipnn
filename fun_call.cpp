@@ -22,9 +22,9 @@ int main()
   int b = 11;
   add(a, b);
   test();
-
+  // hello
   kernelId = 888;
-
+ // world!!!
   int a = 12;
   int b = 15;
   max(a, b);
