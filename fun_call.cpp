@@ -25,6 +25,10 @@ int main()
   // hello
   kernelId = 888;
  // world!!!
+  
+  kernelId = 888;
+  kernelId = 1234;
+
   int a = 12;
   int b = 15;
   max(a, b);
